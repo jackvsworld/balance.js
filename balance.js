@@ -5,6 +5,6 @@ function Balance(n) {
       g = function (x, a) { return d[e(a)] = f(a) + x; },
       h = function (x, a, b) { return g(+x, a), g(-x, b); };
 
-  this.accounts = (function () { return d; }) ();
+  this.accounts = d;
   this.balance = function (x, a, b) { return h(x || 0, a, b); };
 }
