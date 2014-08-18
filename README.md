@@ -36,10 +36,6 @@ Using jQuery to format the results:
 
 Getting the balance of an account:
 
-    jack.accounts["food"];          // 100
-    
-This syntax also works:
-
     jack.accounts.food;             // 100
 
 The `balance` method returns the leftover balance:
