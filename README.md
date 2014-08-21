@@ -10,7 +10,7 @@ Usage
 
 Referencing the library:
 
-    <script src="//test.smithcart.com/js/balance.js"></script>
+    <script src="//jackvsworld.github.io/static/js/balance.js"></script>
 
 Examples
 --------
